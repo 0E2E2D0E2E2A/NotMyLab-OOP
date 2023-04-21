@@ -1,0 +1,15 @@
+C:\Users\nikit\source\repos\lab-OOP-2-2-Katya\lab-OOP-2-2-Katya\obj\Debug\net7.0\lab-OOP-2-2-Katya.csproj.AssemblyReference.cache
+C:\Users\nikit\source\repos\lab-OOP-2-2-Katya\lab-OOP-2-2-Katya\obj\Debug\net7.0\lab-OOP-2-2-Katya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\source\repos\lab-OOP-2-2-Katya\lab-OOP-2-2-Katya\obj\Debug\net7.0\lab-OOP-2-2-Katya.AssemblyInfoInputs.cache
+C:\Users\nikit\source\repos\lab-OOP-2-2-Katya\lab-OOP-2-2-Katya\obj\Debug\net7.0\lab-OOP-2-2-Katya.AssemblyInfo.cs
+C:\Users\nikit\source\repos\lab-OOP-2-2-Katya\lab-OOP-2-2-Katya\obj\Debug\net7.0\lab-OOP-2-2-Katya.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\lab-OOP-2-2-Katya\lab-OOP-2-2-Katya\bin\Debug\net7.0\lab-OOP-2-2-Katya.exe
+C:\Users\nikit\source\repos\lab-OOP-2-2-Katya\lab-OOP-2-2-Katya\bin\Debug\net7.0\lab-OOP-2-2-Katya.deps.json
+C:\Users\nikit\source\repos\lab-OOP-2-2-Katya\lab-OOP-2-2-Katya\bin\Debug\net7.0\lab-OOP-2-2-Katya.runtimeconfig.json
+C:\Users\nikit\source\repos\lab-OOP-2-2-Katya\lab-OOP-2-2-Katya\bin\Debug\net7.0\lab-OOP-2-2-Katya.dll
+C:\Users\nikit\source\repos\lab-OOP-2-2-Katya\lab-OOP-2-2-Katya\bin\Debug\net7.0\lab-OOP-2-2-Katya.pdb
+C:\Users\nikit\source\repos\lab-OOP-2-2-Katya\lab-OOP-2-2-Katya\obj\Debug\net7.0\lab-OOP-2-2-Katya.dll
+C:\Users\nikit\source\repos\lab-OOP-2-2-Katya\lab-OOP-2-2-Katya\obj\Debug\net7.0\refint\lab-OOP-2-2-Katya.dll
+C:\Users\nikit\source\repos\lab-OOP-2-2-Katya\lab-OOP-2-2-Katya\obj\Debug\net7.0\lab-OOP-2-2-Katya.pdb
+C:\Users\nikit\source\repos\lab-OOP-2-2-Katya\lab-OOP-2-2-Katya\obj\Debug\net7.0\lab-OOP-2-2-Katya.genruntimeconfig.cache
+C:\Users\nikit\source\repos\lab-OOP-2-2-Katya\lab-OOP-2-2-Katya\obj\Debug\net7.0\ref\lab-OOP-2-2-Katya.dll
