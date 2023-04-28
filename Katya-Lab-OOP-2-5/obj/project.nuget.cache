@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/omdwAyUTa/C6yFSiVBXHxlklHmQeemgJaFkSh1hJOnW3DJbcUQv725TDQpp304SRytsLALmqJJVITYRyb8VGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nikit\\source\\repos\\Katya-Lab-OOP-2-5\\Katya-Lab-OOP-2-5\\Katya-Lab-OOP-2-5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikit\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}
